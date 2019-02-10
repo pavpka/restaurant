@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+.idea
+
+frontend/package-lock.json
+frontend/node_modules
+
+backend/package-lock.json
+backend/node_modules

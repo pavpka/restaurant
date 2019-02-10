@@ -1,0 +1,17 @@
+table{
+    width: 50%;
+    position: center;
+    background-color: rgba(255,255,255,0.6);
+    border-collapse: collapse;
+    margin-left: 20%;
+}
+td,th{
+    padding-left: 1%;
+    border: 1px solid black;
+}
+.tableRes{
+    position: center;
+}
+#buttonDelete, #buttonEdit{
+    margin: 10px;
+}
