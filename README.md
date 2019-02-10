@@ -1,11 +1,11 @@
 # restaurant
 test-task web-application
 
-Backend: Node.js (Express)
+# Backend: Node.js (Express)
 
-Frontend: Js (React)
+# Frontend: Js (React)
 
-Database: PostgreSQL
+# Database: PostgreSQL
 
 
 
