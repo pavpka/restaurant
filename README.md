@@ -2,8 +2,12 @@
 test-task web-application
 
 Backend: Node.js (Express)
+
 Frontend: Js (React)
+
 Database: PostgreSQL
+
+
 
 run project - npm start
 
